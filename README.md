@@ -4,4 +4,9 @@ Dependencies (library used):
 - PyQt5
 - json
 
-How to use the application:
+How to extract and package this application into executable file (.exe file):
+1. 
+2.
+3.
+4.
+5.
